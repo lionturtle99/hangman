@@ -1,1 +1,34 @@
+body {
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  background: linear-gradient(to left, rgba(78, 143, 78, 0.479), rgba(236, 236, 0, 0.63));
+}
 
+.hidden {
+  display:none;
+}
+
+.container {
+  padding: 3em;
+  text-align: center;
+}
+.jumbotron {
+  width: 100%;
+  min-height: 5em;
+  padding: 5em;
+}
+
+#rules {
+  text-align: justify;
+  width: 35%;
+  float: right;
+}
+
+.submit-div {
+  width: 40%;
+  padding: 3em;
+}
+
+#play-area {
+  margin-top: 50px;
+}
